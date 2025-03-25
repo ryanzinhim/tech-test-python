@@ -22,4 +22,3 @@ Calcula IPs válidos a partir de uma string e dessa forma há a criação de um 
 
 (esse teste precisa ter o curl na maquina, caso não tenha, 
 Basta rodar python test_api.py no terminal, com a API já ativa.)
-# tech-test-python
