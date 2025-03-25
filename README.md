@@ -6,7 +6,9 @@ Calcula IPs válidos a partir de uma string e dessa forma há a criação de um 
 
 ##Estrutura
 `database.py`: Configura o banco SQLite.
+
 `data_manager.py`: Calcula IPs e gerencia dados.
+
 `api.py`: Rotas POST `/ips/` e GET `/ips/`.
 
 ## Como Executar
